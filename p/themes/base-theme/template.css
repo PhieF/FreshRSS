@@ -492,7 +492,6 @@ a.btn {
 }
 .flux .item {
 	line-height: 40px;
-	white-space: nowrap;
 }
 .flux .item.manage,
 .flux .item.link {
@@ -526,7 +525,6 @@ a.btn {
 .flux .item > a {
 	display: block;
 	text-decoration: none;
-	white-space: nowrap;
 	text-overflow: ellipsis;
 	overflow: hidden;
 }
@@ -893,7 +891,6 @@ pre.enclosure-description {
 	.flux:not(.current):hover .item.title {
 		position: relative;
 		width: auto;
-		white-space: nowrap;
 	}
 
 	.notification {
